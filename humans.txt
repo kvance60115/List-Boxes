@@ -9,8 +9,10 @@
 # THANKS
 
     <name>
+	thanlks to all my peeps
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
