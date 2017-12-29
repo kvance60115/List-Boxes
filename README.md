@@ -12,3 +12,6 @@ and some text
 
 and some more text
 ccc
+
+###Copyright
+notice here
