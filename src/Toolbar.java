@@ -6,7 +6,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-#comment
+
 
 
 public class Toolbar extends JPanel implements ActionListener {
