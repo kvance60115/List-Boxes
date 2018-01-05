@@ -8,6 +8,8 @@ import javax.swing.JPanel;
 
 
 //this is a comment
+//and another
+
 
 public class Toolbar extends JPanel implements ActionListener {
 	private JButton helloButton;
